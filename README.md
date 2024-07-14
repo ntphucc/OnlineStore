@@ -1,19 +1,21 @@
 # OnlineStore
+
 ## Description
-Online store is a ecommerce shop thet everybody can download and use.
-## Installing and using
-All needed preinstalled software:
-* IIS Express
-* Microsoft SQL Server
-* Microsoft Visual Studio 2019
 
-Used frameworks and libraries:
-* NET Core 3.0
-* ASP NET Core 3.0
-* Entity Framework Core 3.0
+OnlineStore is an ecommerce platform that is freely available for download and use by everyone.
 
-Installation instruction:
-* Clone this repository
-* Open the solution in Microsoft Visual Studio 
-* Update database with command `update-database`
-* Run the project
+## Installation and Usage
+
+### Prerequisites
+
+Make sure you have the following software installed:
+
+- [IIS Express](https://docs.microsoft.com/en-us/iis/extensions/introduction-to-iis-express/iis-express-overview)
+- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [Microsoft Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
+
+### Frameworks and Libraries Used
+
+- .NET Core 8.0
+- ASP.NET Core 8.0
+- Entity Framework Core 8.0
